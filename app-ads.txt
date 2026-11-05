@@ -1,2 +1,8 @@
+# Google AdMob
 google.com, pub-8604178003293480, DIRECT, f08c47fec0942fa0
-unityads.unity3d.com, 800425167, DIRECT
+
+# Unity Ads
+unity.com, 800425167, RESELLER, 11ec26a455a29796
+
+# Pangle (TikTok Audience Network)
+pangle.io, 5046095, RESELLER, 1e737d94f6c44933
